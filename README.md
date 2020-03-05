@@ -1,2 +1,2 @@
-# sc.horizon
-horizon
+# cg.thistle
+
